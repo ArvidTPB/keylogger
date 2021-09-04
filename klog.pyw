@@ -12,4 +12,3 @@ f = open("logs.txt","a")
 while True:
     i = 0
     f = open("logs.txt","a")
-shutil.move("D:\", "" + str(username) + "")
