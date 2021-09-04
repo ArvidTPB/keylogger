@@ -1,1 +1,2 @@
-import shutil
+import shutil, getpass
+username = getpass.
